@@ -1,2 +1,6 @@
-# azure-devops-pipeline
-Practice to configure an Azure DevOps Pipeline
+# Azure DevOps pipeline configuration
+
+Configuration files for an Azure DevOps pipele creation.
+
+
+
